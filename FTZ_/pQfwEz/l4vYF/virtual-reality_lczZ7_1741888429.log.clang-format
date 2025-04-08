@@ -11,5 +11,4 @@ AllowShortFunctionsOnASingleLine: InlineOnly
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 DerivePointerAlignment: false
 PointerAlignment: Left
-BreakConstructorInitializers: BeforeComma
 ...
