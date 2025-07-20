@@ -1,0 +1,13 @@
+[run]
+source = src
+branch = True
+omit =
+   */tests/*
+   tests.py
+   */test*.py
+   wsgi.py
+
+[paths]
+source =
+   src
+   /app/src
